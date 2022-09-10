@@ -8,7 +8,7 @@ describe('Add Operator',() => {
     
     test('adds 2 + 2 to equals 4',() => {
         var result = cal.add(2,2);
-        expect(result).toBe(4);
+        expect(result).toBe(5);
     }); 
 });
 
